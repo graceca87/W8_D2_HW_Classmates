@@ -6,8 +6,8 @@ export default function App() {
     return (
        <>
        <Navbar />
-       <div class='container'>
-        <Classmates />
+       <div className='container'>
+            <Classmates />
        </div>
        </>
   )
