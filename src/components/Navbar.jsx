@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar() {
     const bgColor = {
-        backgroundColor: '#03045e'
+        backgroundColor: '#5f0f40'
     }
     
   return (
